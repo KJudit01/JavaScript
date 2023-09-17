@@ -1,0 +1,24 @@
+/* Styles for Todo tasks */
+.todo-task {
+    color: red;
+}
+
+/* Styles for completed tasks */
+.completed-task {
+    text-decoration: line-through;
+}
+
+/* Additional CSS rules */
+/* 1. Checkbox styles */
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#progress {
+    margin-top: 20px;
+    font-weight: bold;
+}
